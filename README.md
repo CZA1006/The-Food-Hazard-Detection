@@ -1,1 +1,2 @@
-# MSBD-5018-Group-Project
+# The-Food-Hazard-Detection
+MSBD 5018 Group Project
